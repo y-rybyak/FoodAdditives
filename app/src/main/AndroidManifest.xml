@@ -26,6 +26,9 @@
         <activity android:name=".E102Activity"
             android:label="@string/e102_label">
         </activity>
+        <activity android:name=".E121Activity"
+            android:label="@string/e121_label">
+        </activity>
     </application>
 
 </manifest>
