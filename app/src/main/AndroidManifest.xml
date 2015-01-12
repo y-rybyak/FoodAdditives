@@ -29,6 +29,93 @@
         <activity android:name=".E121Activity"
             android:label="@string/e121_label">
         </activity>
+        <activity android:name=".E123Activity"
+            android:label="@string/e123_label">
+        </activity>
+		<activity android:name=".E123Activity"
+            android:label="@string/e123_label">
+        </activity>
+		<activity android:name=".E127Activity"
+            android:label="@string/e127_label">
+        </activity>
+		<activity android:name=".E128Activity"
+            android:label="@string/e128_label">
+        </activity>
+		<activity android:name=".E142Activity"
+            android:label="@string/e142_label">
+        </activity>
+		<activity android:name=".E154Activity"
+            android:label="@string/e154_label">
+        </activity>
+		<activity android:name=".E173Activity"
+            android:label="@string/e173_label">
+        </activity>
+		<activity android:name=".E180Activity"
+            android:label="@string/e180_label">
+        </activity>
+		<activity android:name=".E216Activity"
+            android:label="@string/e216_label">
+        </activity>
+		<activity android:name=".E217Activity"
+            android:label="@string/e217_label">
+        </activity>
+		<activity android:name=".E240Activity"
+            android:label="@string/e240_label">
+        </activity>
+		<activity android:name=".E388Activity"
+            android:label="@string/e388_label">
+        </activity>
+		<activity android:name=".E389Activity"
+            android:label="@string/e389_label">
+        </activity>
+		<activity android:name=".E424Activity"
+            android:label="@string/e424_label">
+        </activity>
+		<activity android:name=".E425Activity"
+            android:label="@string/e425_label">
+        </activity>
+		<activity android:name=".E512Activity"
+            android:label="@string/e512_label">
+        </activity>
+		<activity android:name=".E537Activity"
+            android:label="@string/e537_label">
+        </activity>
+		<activity android:name=".E557Activity"
+            android:label="@string/e557_label">
+        </activity>
+		<activity android:name=".E912Activity"
+            android:label="@string/e912_label">
+        </activity>
+		<activity android:name=".E914Activity"
+            android:label="@string/e914_label">
+        </activity>
+		<activity android:name=".E916Activity"
+            android:label="@string/e916_label">
+        </activity>
+		<activity android:name=".E917Activity"
+            android:label="@string/e917_label">
+        </activity>
+		<activity android:name=".E918Activity"
+            android:label="@string/e918_label">
+        </activity>
+		<activity android:name=".E919Activity"
+            android:label="@string/e919_label">
+        </activity>
+		<activity android:name=".E922Activity"
+            android:label="@string/e922_label">
+        </activity>
+		<activity android:name=".E923Activity"
+            android:label="@string/e923_label">
+        </activity>
+		<activity android:name=".E925Activity"
+            android:label="@string/e925_label">
+        </activity>
+		<activity android:name=".E926Activity"
+            android:label="@string/e926_label">
+        </activity>
+		<activity android:name=".E929Activity"
+            android:label="@string/e929_label">
+        </activity>
     </application>
 
 </manifest>
