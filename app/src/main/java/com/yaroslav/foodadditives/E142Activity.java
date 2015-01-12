@@ -14,7 +14,7 @@ public class E142Activity extends Activity {
         setContentView(R.layout.activity_e142);
     }
 
-    public void E142ReturnClick(View view) {
+    public void E100ReturnClick(View view) {
         Intent intent = new Intent(E142Activity.this, MainActivity.class);
         startActivity(intent);
     }
