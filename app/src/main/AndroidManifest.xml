@@ -17,22 +17,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".E100Activity"
-            android:label="@string/e100_label">
-        </activity>
-        <activity android:name=".E101Activity"
-            android:label="@string/e101_label">
-        </activity>
-        <activity android:name=".E102Activity"
-            android:label="@string/e102_label">
-        </activity>
         <activity android:name=".E121Activity"
             android:label="@string/e121_label">
         </activity>
         <activity android:name=".E123Activity"
-            android:label="@string/e123_label">
-        </activity>
-		<activity android:name=".E123Activity"
             android:label="@string/e123_label">
         </activity>
 		<activity android:name=".E127Activity"

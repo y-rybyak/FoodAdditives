@@ -11,37 +11,9 @@
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e100_label"
-            android:id="@+id/e100_button"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:onClick="ButtonE100Click" />
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e101_label"
-            android:id="@+id/e101_button"
-            android:layout_below="@+id/e100_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:onClick="ButtonE101Click" />
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e102_label"
-            android:id="@+id/e102_button"
-            android:onClick="ButtonE102Click"
-            android:layout_below="@+id/e101_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-        <Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
             android:text="@string/e121_label"
             android:id="@+id/e121_button"
             android:onClick="ButtonE121Click"
-            android:layout_below="@+id/e102_button"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
         <Button
