@@ -53,168 +53,162 @@ ADDED from AndroidManifest.xml:23:9
 		ADDED from AndroidManifest.xml:24:13
 	android:name
 		ADDED from AndroidManifest.xml:23:19
-activity#com.yaroslav.foodadditives.E127Activity
+activity#com.yaroslav.foodadditives.E128Activity
 ADDED from AndroidManifest.xml:26:3
 	android:label
 		ADDED from AndroidManifest.xml:27:13
 	android:name
 		ADDED from AndroidManifest.xml:26:13
-activity#com.yaroslav.foodadditives.E128Activity
+activity#com.yaroslav.foodadditives.E142Activity
 ADDED from AndroidManifest.xml:29:3
 	android:label
 		ADDED from AndroidManifest.xml:30:13
 	android:name
 		ADDED from AndroidManifest.xml:29:13
-activity#com.yaroslav.foodadditives.E142Activity
+activity#com.yaroslav.foodadditives.E154Activity
 ADDED from AndroidManifest.xml:32:3
 	android:label
 		ADDED from AndroidManifest.xml:33:13
 	android:name
 		ADDED from AndroidManifest.xml:32:13
-activity#com.yaroslav.foodadditives.E154Activity
+activity#com.yaroslav.foodadditives.E173Activity
 ADDED from AndroidManifest.xml:35:3
 	android:label
 		ADDED from AndroidManifest.xml:36:13
 	android:name
 		ADDED from AndroidManifest.xml:35:13
-activity#com.yaroslav.foodadditives.E173Activity
+activity#com.yaroslav.foodadditives.E180Activity
 ADDED from AndroidManifest.xml:38:3
 	android:label
 		ADDED from AndroidManifest.xml:39:13
 	android:name
 		ADDED from AndroidManifest.xml:38:13
-activity#com.yaroslav.foodadditives.E180Activity
+activity#com.yaroslav.foodadditives.E216Activity
 ADDED from AndroidManifest.xml:41:3
 	android:label
 		ADDED from AndroidManifest.xml:42:13
 	android:name
 		ADDED from AndroidManifest.xml:41:13
-activity#com.yaroslav.foodadditives.E216Activity
+activity#com.yaroslav.foodadditives.E217Activity
 ADDED from AndroidManifest.xml:44:3
 	android:label
 		ADDED from AndroidManifest.xml:45:13
 	android:name
 		ADDED from AndroidManifest.xml:44:13
-activity#com.yaroslav.foodadditives.E217Activity
+activity#com.yaroslav.foodadditives.E240Activity
 ADDED from AndroidManifest.xml:47:3
 	android:label
 		ADDED from AndroidManifest.xml:48:13
 	android:name
 		ADDED from AndroidManifest.xml:47:13
-activity#com.yaroslav.foodadditives.E240Activity
+activity#com.yaroslav.foodadditives.E388Activity
 ADDED from AndroidManifest.xml:50:3
 	android:label
 		ADDED from AndroidManifest.xml:51:13
 	android:name
 		ADDED from AndroidManifest.xml:50:13
-activity#com.yaroslav.foodadditives.E388Activity
+activity#com.yaroslav.foodadditives.E389Activity
 ADDED from AndroidManifest.xml:53:3
 	android:label
 		ADDED from AndroidManifest.xml:54:13
 	android:name
 		ADDED from AndroidManifest.xml:53:13
-activity#com.yaroslav.foodadditives.E389Activity
+activity#com.yaroslav.foodadditives.E424Activity
 ADDED from AndroidManifest.xml:56:3
 	android:label
 		ADDED from AndroidManifest.xml:57:13
 	android:name
 		ADDED from AndroidManifest.xml:56:13
-activity#com.yaroslav.foodadditives.E424Activity
+activity#com.yaroslav.foodadditives.E425Activity
 ADDED from AndroidManifest.xml:59:3
 	android:label
 		ADDED from AndroidManifest.xml:60:13
 	android:name
 		ADDED from AndroidManifest.xml:59:13
-activity#com.yaroslav.foodadditives.E425Activity
+activity#com.yaroslav.foodadditives.E512Activity
 ADDED from AndroidManifest.xml:62:3
 	android:label
 		ADDED from AndroidManifest.xml:63:13
 	android:name
 		ADDED from AndroidManifest.xml:62:13
-activity#com.yaroslav.foodadditives.E512Activity
+activity#com.yaroslav.foodadditives.E537Activity
 ADDED from AndroidManifest.xml:65:3
 	android:label
 		ADDED from AndroidManifest.xml:66:13
 	android:name
 		ADDED from AndroidManifest.xml:65:13
-activity#com.yaroslav.foodadditives.E537Activity
+activity#com.yaroslav.foodadditives.E557Activity
 ADDED from AndroidManifest.xml:68:3
 	android:label
 		ADDED from AndroidManifest.xml:69:13
 	android:name
 		ADDED from AndroidManifest.xml:68:13
-activity#com.yaroslav.foodadditives.E557Activity
+activity#com.yaroslav.foodadditives.E912Activity
 ADDED from AndroidManifest.xml:71:3
 	android:label
 		ADDED from AndroidManifest.xml:72:13
 	android:name
 		ADDED from AndroidManifest.xml:71:13
-activity#com.yaroslav.foodadditives.E912Activity
+activity#com.yaroslav.foodadditives.E914Activity
 ADDED from AndroidManifest.xml:74:3
 	android:label
 		ADDED from AndroidManifest.xml:75:13
 	android:name
 		ADDED from AndroidManifest.xml:74:13
-activity#com.yaroslav.foodadditives.E914Activity
+activity#com.yaroslav.foodadditives.E916Activity
 ADDED from AndroidManifest.xml:77:3
 	android:label
 		ADDED from AndroidManifest.xml:78:13
 	android:name
 		ADDED from AndroidManifest.xml:77:13
-activity#com.yaroslav.foodadditives.E916Activity
+activity#com.yaroslav.foodadditives.E917Activity
 ADDED from AndroidManifest.xml:80:3
 	android:label
 		ADDED from AndroidManifest.xml:81:13
 	android:name
 		ADDED from AndroidManifest.xml:80:13
-activity#com.yaroslav.foodadditives.E917Activity
+activity#com.yaroslav.foodadditives.E918Activity
 ADDED from AndroidManifest.xml:83:3
 	android:label
 		ADDED from AndroidManifest.xml:84:13
 	android:name
 		ADDED from AndroidManifest.xml:83:13
-activity#com.yaroslav.foodadditives.E918Activity
+activity#com.yaroslav.foodadditives.E919Activity
 ADDED from AndroidManifest.xml:86:3
 	android:label
 		ADDED from AndroidManifest.xml:87:13
 	android:name
 		ADDED from AndroidManifest.xml:86:13
-activity#com.yaroslav.foodadditives.E919Activity
+activity#com.yaroslav.foodadditives.E922Activity
 ADDED from AndroidManifest.xml:89:3
 	android:label
 		ADDED from AndroidManifest.xml:90:13
 	android:name
 		ADDED from AndroidManifest.xml:89:13
-activity#com.yaroslav.foodadditives.E922Activity
+activity#com.yaroslav.foodadditives.E923Activity
 ADDED from AndroidManifest.xml:92:3
 	android:label
 		ADDED from AndroidManifest.xml:93:13
 	android:name
 		ADDED from AndroidManifest.xml:92:13
-activity#com.yaroslav.foodadditives.E923Activity
+activity#com.yaroslav.foodadditives.E925Activity
 ADDED from AndroidManifest.xml:95:3
 	android:label
 		ADDED from AndroidManifest.xml:96:13
 	android:name
 		ADDED from AndroidManifest.xml:95:13
-activity#com.yaroslav.foodadditives.E925Activity
+activity#com.yaroslav.foodadditives.E926Activity
 ADDED from AndroidManifest.xml:98:3
 	android:label
 		ADDED from AndroidManifest.xml:99:13
 	android:name
 		ADDED from AndroidManifest.xml:98:13
-activity#com.yaroslav.foodadditives.E926Activity
+activity#com.yaroslav.foodadditives.E929Activity
 ADDED from AndroidManifest.xml:101:3
 	android:label
 		ADDED from AndroidManifest.xml:102:13
 	android:name
 		ADDED from AndroidManifest.xml:101:13
-activity#com.yaroslav.foodadditives.E929Activity
-ADDED from AndroidManifest.xml:104:3
-	android:label
-		ADDED from AndroidManifest.xml:105:13
-	android:name
-		ADDED from AndroidManifest.xml:104:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from com.android.support:appcompat-v7:21.0.3:15:5
