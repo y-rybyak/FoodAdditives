@@ -25,10 +25,6 @@ public class MainActivity extends Activity {
         Intent intent = new Intent(MainActivity.this, E123Activity.class);
         startActivity(intent);
     }
-    public void ButtonE127Click(View view) {
-        Intent intent = new Intent(MainActivity.this, E127Activity.class);
-        startActivity(intent);
-    }
     public void ButtonE128Click(View view) {
         Intent intent = new Intent(MainActivity.this, E128Activity.class);
         startActivity(intent);

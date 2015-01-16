@@ -23,9 +23,6 @@
         <activity android:name=".E123Activity"
             android:label="@string/e123_label">
         </activity>
-		<activity android:name=".E127Activity"
-            android:label="@string/e127_label">
-        </activity>
 		<activity android:name=".E128Activity"
             android:label="@string/e128_label">
         </activity>

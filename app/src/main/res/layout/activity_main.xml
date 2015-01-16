@@ -28,19 +28,10 @@
 		<Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e127_label"
-            android:id="@+id/e127_button"
-            android:onClick="ButtonE127Click"
-            android:layout_below="@+id/e123_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
             android:text="@string/e128_label"
             android:id="@+id/e128_button"
             android:onClick="ButtonE128Click"
-            android:layout_below="@+id/e127_button"
+            android:layout_below="@+id/e123_button"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 		<Button
