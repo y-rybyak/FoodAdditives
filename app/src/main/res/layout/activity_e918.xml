@@ -18,15 +18,13 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
-
         <Button
-            android:layout_width="fill_parent"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:text="@string/return_label"
             android:id="@+id/E100ReturnButton"
+            android:onClick="E100ReturnClick"
             android:layout_below="@+id/textView"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:onClick="E100ReturnClick" />
+            android:layout_centerHorizontal="true" />
     </RelativeLayout>
 </ScrollView>
