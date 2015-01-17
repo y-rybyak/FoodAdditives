@@ -38,6 +38,9 @@ public class MainActivity extends ActionBarActivity {
         if (id == R.id.dark_theme) {
             return true;
         }
+        else if (id == R.id.light_theme) {
+            return true;
+        }
 
         return super.onOptionsItemSelected(item);
     }
