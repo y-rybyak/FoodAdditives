@@ -7,8 +7,8 @@ import android.view.View;
 public class E929Activity extends Activity {
 
     @Override
-    protected void onPostCreate(Bundle savedInstanceState) {
-        super.onPostCreate(savedInstanceState);
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         themeUtils.onActivityCreateSetTheme(this);
         setContentView(R.layout.activity_e929);
     }

@@ -6,7 +6,6 @@ import android.content.Intent;
 public class themeUtils
 
 {
-
     private static int cTheme;
     public final static int DARK = 0;
     public final static int LIGHT = 1;
