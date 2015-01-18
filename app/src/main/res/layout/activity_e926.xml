@@ -22,8 +22,8 @@
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:text="@string/return_label"
-            android:id="@+id/E100ReturnButton"
-            android:onClick="E100ReturnClick"
+            android:id="@+id/ReturnButton"
+            android:onClick="ReturnClick"
             android:layout_below="@+id/textView"
             android:layout_centerHorizontal="true" />
     </RelativeLayout>

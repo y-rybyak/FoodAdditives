@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yaroslav.foodadditives" >
+    package="com.yrybyak.foodadditives" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/DarkTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="com.yrybyak.foodadditives.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,88 +17,88 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".E121Activity"
+        <activity android:name="com.yrybyak.foodadditives.E121Activity"
             android:label="@string/e121_label">
         </activity>
-        <activity android:name=".E123Activity"
+        <activity android:name="com.yrybyak.foodadditives.E123Activity"
             android:label="@string/e123_label">
         </activity>
-		<activity android:name=".E128Activity"
+		<activity android:name="com.yrybyak.foodadditives.E128Activity"
             android:label="@string/e128_label">
         </activity>
-		<activity android:name=".E142Activity"
+		<activity android:name="com.yrybyak.foodadditives.E142Activity"
             android:label="@string/e142_label">
         </activity>
-		<activity android:name=".E154Activity"
+		<activity android:name="com.yrybyak.foodadditives.E154Activity"
             android:label="@string/e154_label">
         </activity>
-		<activity android:name=".E173Activity"
+		<activity android:name="com.yrybyak.foodadditives.E173Activity"
             android:label="@string/e173_label">
         </activity>
-		<activity android:name=".E180Activity"
+		<activity android:name="com.yrybyak.foodadditives.E180Activity"
             android:label="@string/e180_label">
         </activity>
-		<activity android:name=".E216Activity"
+		<activity android:name="com.yrybyak.foodadditives.E216Activity"
             android:label="@string/e216_label">
         </activity>
-		<activity android:name=".E217Activity"
+		<activity android:name="com.yrybyak.foodadditives.E217Activity"
             android:label="@string/e217_label">
         </activity>
-		<activity android:name=".E240Activity"
+		<activity android:name="com.yrybyak.foodadditives.E240Activity"
             android:label="@string/e240_label">
         </activity>
-		<activity android:name=".E388Activity"
+		<activity android:name="com.yrybyak.foodadditives.E388Activity"
             android:label="@string/e388_label">
         </activity>
-		<activity android:name=".E389Activity"
+		<activity android:name="com.yrybyak.foodadditives.E389Activity"
             android:label="@string/e389_label">
         </activity>
-		<activity android:name=".E424Activity"
+		<activity android:name="com.yrybyak.foodadditives.E424Activity"
             android:label="@string/e424_label">
         </activity>
-		<activity android:name=".E425Activity"
+		<activity android:name="com.yrybyak.foodadditives.E425Activity"
             android:label="@string/e425_label">
         </activity>
-		<activity android:name=".E512Activity"
+		<activity android:name="com.yrybyak.foodadditives.E512Activity"
             android:label="@string/e512_label">
         </activity>
-		<activity android:name=".E537Activity"
+		<activity android:name="com.yrybyak.foodadditives.E537Activity"
             android:label="@string/e537_label">
         </activity>
-		<activity android:name=".E557Activity"
+		<activity android:name="com.yrybyak.foodadditives.E557Activity"
             android:label="@string/e557_label">
         </activity>
-		<activity android:name=".E912Activity"
+		<activity android:name="com.yrybyak.foodadditives.E912Activity"
             android:label="@string/e912_label">
         </activity>
-		<activity android:name=".E914Activity"
+		<activity android:name="com.yrybyak.foodadditives.E914Activity"
             android:label="@string/e914_label">
         </activity>
-		<activity android:name=".E916Activity"
+		<activity android:name="com.yrybyak.foodadditives.E916Activity"
             android:label="@string/e916_label">
         </activity>
-		<activity android:name=".E917Activity"
+		<activity android:name="com.yrybyak.foodadditives.E917Activity"
             android:label="@string/e917_label">
         </activity>
-		<activity android:name=".E918Activity"
+		<activity android:name="com.yrybyak.foodadditives.E918Activity"
             android:label="@string/e918_label">
         </activity>
-		<activity android:name=".E919Activity"
+		<activity android:name="com.yrybyak.foodadditives.E919Activity"
             android:label="@string/e919_label">
         </activity>
-		<activity android:name=".E922Activity"
+		<activity android:name="com.yrybyak.foodadditives.E922Activity"
             android:label="@string/e922_label">
         </activity>
-		<activity android:name=".E923Activity"
+		<activity android:name="com.yrybyak.foodadditives.E923Activity"
             android:label="@string/e923_label">
         </activity>
-		<activity android:name=".E925Activity"
+		<activity android:name="com.yrybyak.foodadditives.E925Activity"
             android:label="@string/e925_label">
         </activity>
-		<activity android:name=".E926Activity"
+		<activity android:name="com.yrybyak.foodadditives.E926Activity"
             android:label="@string/e926_label">
         </activity>
-		<activity android:name=".E929Activity"
+		<activity android:name="com.yrybyak.foodadditives.E929Activity"
             android:label="@string/e929_label">
         </activity>
     </application>
