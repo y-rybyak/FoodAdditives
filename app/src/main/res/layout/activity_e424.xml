@@ -11,6 +11,7 @@
 
         <TextView
             android:layout_width="fill_parent"
+            android:textSize="@dimen/inner_textfontsize"
             android:layout_height="wrap_content"
             android:text="@string/e424_text"
             android:id="@+id/textView"
