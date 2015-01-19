@@ -9,7 +9,7 @@ public class E912Activity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        themeUtils.onActivityCreateSetTheme(this);
         setContentView(R.layout.activity_e912);
     }
 
