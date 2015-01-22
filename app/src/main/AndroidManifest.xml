@@ -19,6 +19,8 @@
 
         <activity android:name="com.yrybyak.foodadditives.EActivity">
         </activity>
+        <activity android:name="com.yrybyak.foodadditives.AboutActivity">
+        </activity>
     </application>
 
 </manifest>
