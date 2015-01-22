@@ -40,11 +40,15 @@ public class MainActivity extends Activity {
             setContentView(R.layout.activity_main);
             return true;
         }
+        /*
+        Закомментированный код для пункта меню "О программе".
+        Раскомментировать здесь и menu_main.xml
         else if (id == R.id.about) {
             Intent intent = new Intent(MainActivity.this, AboutActivity.class);
             startActivity(intent);
             return true;
         }
+        */
 
 
         return super.onOptionsItemSelected(item);

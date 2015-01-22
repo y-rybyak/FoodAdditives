@@ -5,6 +5,10 @@
         android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/light_theme" android:title="@string/light_theme_label"
         android:orderInCategory="101" app:showAsAction="never" />
+    <!--
+    Закомментированный код для пункта меню "О программе".
+    Раскомментировать здесь и MainActivity.java
     <item android:id="@+id/about" android:title="@string/about_label"
         android:orderInCategory="101" app:showAsAction="never" />
+    -->
 </menu>
