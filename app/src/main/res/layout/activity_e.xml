@@ -13,7 +13,6 @@
             android:layout_width="fill_parent"
             android:textSize="@dimen/inner_textfontsize"
             android:layout_height="wrap_content"
-            android:text="@string/e917_text"
             android:id="@+id/textView"
             android:layout_alignParentTop="true"
             android:layout_alignParentLeft="true"
