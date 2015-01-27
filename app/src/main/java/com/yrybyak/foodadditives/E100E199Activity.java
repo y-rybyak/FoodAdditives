@@ -4,14 +4,13 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
 
 public class E100E199Activity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        getWindow().requestFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
+        this.setTitle(R.string.e100_e199_meaning);
         themeUtils.onActivityCreateSetTheme(this);
         setContentView(R.layout.activity_e100_e199);
     }

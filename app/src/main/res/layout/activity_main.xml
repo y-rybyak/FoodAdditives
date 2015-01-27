@@ -24,8 +24,7 @@
             android:onClick="ButtonE200E299Click"
             android:layout_below="@+id/e100_199_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
