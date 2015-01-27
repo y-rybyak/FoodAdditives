@@ -251,8 +251,7 @@
             android:onClick="ButtonE160bClick"
             android:layout_below="@+id/e160a_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -261,8 +260,7 @@
             android:onClick="ButtonE160cClick"
             android:layout_below="@+id/e160b_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -271,8 +269,7 @@
             android:onClick="ButtonE161bClick"
             android:layout_below="@+id/e160c_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -281,8 +278,7 @@
             android:onClick="ButtonE162Click"
             android:layout_below="@+id/e161b_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -291,8 +287,7 @@
             android:onClick="ButtonE163Click"
             android:layout_below="@+id/e162_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -301,8 +296,7 @@
             android:onClick="ButtonE164Click"
             android:layout_below="@+id/e163_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -311,8 +305,7 @@
             android:onClick="ButtonE170Click"
             android:layout_below="@+id/e164_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -321,8 +314,7 @@
             android:onClick="ButtonE171Click"
             android:layout_below="@+id/e170_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -331,8 +323,7 @@
             android:onClick="ButtonE172Click"
             android:layout_below="@+id/e171_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:enabled="false" />
+            android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
