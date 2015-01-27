@@ -63,4 +63,39 @@ public class MainActivity extends Activity {
         Intent intent = new Intent(MainActivity.this, E200E299Activity.class);
         startActivity(intent);
     }
+
+    public void ButtonE300E399Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E300E399Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE400E499Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E400E499Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE500E599Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E500E599Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE600E699Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E600E699Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE700E799Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E700E799Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE900E999Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E900E999Activity.class);
+        startActivity(intent);
+    }
+
+    public void ButtonE1000E1999Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E1000E1999Activity.class);
+        startActivity(intent);
+    }
 }

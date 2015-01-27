@@ -16,10 +16,50 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.yrybyak.foodadditives.E100E199Activity"></activity>
-        <activity android:name="com.yrybyak.foodadditives.E200E299Activity"></activity>
-        <activity android:name="com.yrybyak.foodadditives.EActivity"></activity>
-        <activity android:name="com.yrybyak.foodadditives.AboutActivity"></activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E100E199Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E200E299Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E300E399Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E400E499Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E500E599Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E600E699Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E700E799Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E900E999Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.E1000E1999Activity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.EActivity">
+
+        </activity>
+        <activity
+            android:name="com.yrybyak.foodadditives.AboutActivity">
+
+        </activity>
     </application>
 
 </manifest>

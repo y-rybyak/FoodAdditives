@@ -8,9 +8,9 @@ public class E600E699Activity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        this.setTitle(R.string.e500_e599_meaning);
+        this.setTitle(R.string.e600_e699_meaning);
         themeUtils.onActivityCreateSetTheme(this);
-        setContentView(R.layout.activity_e500_e599);
+        setContentView(R.layout.activity_e600_e699);
     }
 /*
     public void ButtonE200Click(View view) {
