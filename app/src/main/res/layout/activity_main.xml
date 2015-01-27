@@ -11,254 +11,90 @@
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e121_label"
-            android:id="@+id/e121_button"
-            android:onClick="ButtonE121Click"
+            android:text="@string/e100_e199_label"
+            android:id="@+id/e100_199_button"
+            android:onClick="ButtonE100E199Click"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e123_label"
-            android:id="@+id/e123_button"
-            android:onClick="ButtonE123Click"
-            android:layout_below="@+id/e121_button"
+            android:text="@string/e200_e299_label"
+            android:id="@+id/e200_299_button"
+            android:onClick="ButtonE200E299Click"
+            android:layout_below="@+id/e100_199_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e128_label"
-            android:id="@+id/e128_button"
-            android:onClick="ButtonE128Click"
-            android:layout_below="@+id/e123_button"
+            android:text="@string/e300_e399_label"
+            android:id="@+id/e300_399_button"
+            android:onClick="ButtonE300E399Click"
+            android:layout_below="@+id/e200_299_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false"/>
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e142_label"
-            android:id="@+id/e142_button"
-            android:onClick="ButtonE142Click"
-            android:layout_below="@+id/e128_button"
+            android:text="@string/e400_e499_label"
+            android:id="@+id/e400_499_button"
+            android:onClick="ButtonE400E499Click"
+            android:layout_below="@+id/e300_399_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e154_label"
-            android:id="@+id/e154_button"
-            android:onClick="ButtonE154Click"
-            android:layout_below="@+id/e142_button"
+            android:text="@string/e500_e599_label"
+            android:id="@+id/e500_599_button"
+            android:onClick="ButtonE500E599Click"
+            android:layout_below="@+id/e400_499_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e173_label"
-            android:id="@+id/e173_button"
-            android:onClick="ButtonE173Click"
-            android:layout_below="@+id/e154_button"
+            android:text="@string/e600_e699_label"
+            android:id="@+id/e600_699_button"
+            android:onClick="ButtonE600E699Click"
+            android:layout_below="@+id/e500_599_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e180_label"
-            android:id="@+id/e180_button"
-            android:onClick="ButtonE180Click"
-            android:layout_below="@+id/e173_button"
+            android:text="@string/e700_e799_label"
+            android:id="@+id/e700_799_button"
+            android:onClick="ButtonE700E799Click"
+            android:layout_below="@+id/e600_699_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e216_label"
-            android:id="@+id/e216_button"
-            android:onClick="ButtonE216Click"
-            android:layout_below="@+id/e180_button"
+            android:text="@string/e900_e999_label"
+            android:id="@+id/e900_999_button"
+            android:onClick="ButtonE900E999Click"
+            android:layout_below="@+id/e700_799_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
+            android:layout_alignParentStart="true"
+            android:enabled="false" />
+        <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e217_label"
-            android:id="@+id/e217_button"
-            android:onClick="ButtonE217Click"
-            android:layout_below="@+id/e216_button"
+            android:text="@string/e1000_e1999_label"
+            android:id="@+id/e1000_1999_button"
+            android:onClick="ButtonE1000E1999Click"
+            android:layout_below="@+id/e900_999_button"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e240_label"
-            android:id="@+id/e240_button"
-            android:onClick="ButtonE240Click"
-            android:layout_below="@+id/e217_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e388_label"
-            android:id="@+id/e388_button"
-            android:onClick="ButtonE388Click"
-            android:layout_below="@+id/e240_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e389_label"
-            android:id="@+id/e389_button"
-            android:onClick="ButtonE389Click"
-            android:layout_below="@+id/e388_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e424_label"
-            android:id="@+id/e424_button"
-            android:onClick="ButtonE424Click"
-            android:layout_below="@+id/e389_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e425_label"
-            android:id="@+id/e425_button"
-            android:onClick="ButtonE425Click"
-            android:layout_below="@+id/e424_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e512_label"
-            android:id="@+id/e512_button"
-            android:onClick="ButtonE512Click"
-            android:layout_below="@+id/e425_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e537_label"
-            android:id="@+id/e537_button"
-            android:onClick="ButtonE537Click"
-            android:layout_below="@+id/e512_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e557_label"
-            android:id="@+id/e557_button"
-            android:onClick="ButtonE557Click"
-            android:layout_below="@+id/e537_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e912_label"
-            android:id="@+id/e912_button"
-            android:onClick="ButtonE912Click"
-            android:layout_below="@+id/e557_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e914_label"
-            android:id="@+id/e914_button"
-            android:onClick="ButtonE914Click"
-            android:layout_below="@+id/e912_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e916_label"
-            android:id="@+id/e916_button"
-            android:onClick="ButtonE916Click"
-            android:layout_below="@+id/e914_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e917_label"
-            android:id="@+id/e917_button"
-            android:onClick="ButtonE917Click"
-            android:layout_below="@+id/e916_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e918_label"
-            android:id="@+id/e918_button"
-            android:onClick="ButtonE918Click"
-            android:layout_below="@+id/e917_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e919_label"
-            android:id="@+id/e919_button"
-            android:onClick="ButtonE919Click"
-            android:layout_below="@+id/e918_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e922_label"
-            android:id="@+id/e922_button"
-            android:onClick="ButtonE922Click"
-            android:layout_below="@+id/e919_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e923_label"
-            android:id="@+id/e923_button"
-            android:onClick="ButtonE923Click"
-            android:layout_below="@+id/e922_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e925_label"
-            android:id="@+id/e925_button"
-            android:onClick="ButtonE925Click"
-            android:layout_below="@+id/e923_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e926_label"
-            android:id="@+id/e926_button"
-            android:onClick="ButtonE926Click"
-            android:layout_below="@+id/e925_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		<Button
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/e929_label"
-            android:id="@+id/e929_button"
-            android:onClick="ButtonE929Click"
-            android:layout_below="@+id/e926_button"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
-		
+            android:layout_alignParentStart="true"
+            android:enabled="false"/>
     </RelativeLayout>
 </ScrollView>

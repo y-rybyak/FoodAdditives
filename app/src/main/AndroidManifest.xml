@@ -16,11 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.yrybyak.foodadditives.EActivity">
-        </activity>
-        <activity android:name="com.yrybyak.foodadditives.AboutActivity">
-        </activity>
+        <activity android:name="com.yrybyak.foodadditives.E100E199Activity"></activity>
+        <activity android:name="com.yrybyak.foodadditives.EActivity"></activity>
+        <activity android:name="com.yrybyak.foodadditives.AboutActivity"></activity>
     </application>
 
 </manifest>

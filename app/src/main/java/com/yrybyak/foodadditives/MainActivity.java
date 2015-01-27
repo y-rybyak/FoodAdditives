@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
             setContentView(R.layout.activity_main);
             return true;
         }
+
         /*
         Закомментированный код для пункта меню "О программе".
         Раскомментировать здесь и menu_main.xml
@@ -50,148 +51,11 @@ public class MainActivity extends Activity {
         }
         */
 
-
         return super.onOptionsItemSelected(item);
     }
 
-    public void ButtonE121Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e121_text));
-        startActivity(intent);
-    }
-    public void ButtonE123Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e123_text));
-        startActivity(intent);
-    }
-    public void ButtonE128Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e128_text));
-        startActivity(intent);
-    }
-    public void ButtonE142Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e142_text));
-        startActivity(intent);
-    }
-    public void ButtonE154Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e154_text));
-        startActivity(intent);
-    }
-    public void ButtonE173Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e173_text));
-        startActivity(intent);
-    }
-    public void ButtonE180Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e180_text));
-        startActivity(intent);
-    }
-    public void ButtonE216Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e216_text));
-        startActivity(intent);
-    }
-    public void ButtonE217Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e217_text));
-        startActivity(intent);
-    }
-    public void ButtonE240Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e240_text));
-        startActivity(intent);
-    }
-    public void ButtonE388Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e388_text));
-        startActivity(intent);
-    }
-    public void ButtonE389Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e389_text));
-        startActivity(intent);
-    }
-    public void ButtonE424Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e424_text));
-        startActivity(intent);
-    }
-    public void ButtonE425Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e425_text));
-        startActivity(intent);
-    }
-    public void ButtonE512Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e512_text));
-        startActivity(intent);
-    }
-    public void ButtonE537Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e537_text));
-        startActivity(intent);
-    }
-    public void ButtonE557Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e557_text));
-        startActivity(intent);
-    }
-    public void ButtonE912Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e912_text));
-        startActivity(intent);
-    }
-    public void ButtonE914Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e914_text));
-        startActivity(intent);
-    }
-    public void ButtonE916Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e916_text));
-        startActivity(intent);
-    }
-    public void ButtonE917Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e917_text));
-        startActivity(intent);
-    }
-    public void ButtonE918Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e918_text));
-        startActivity(intent);
-    }
-    public void ButtonE919Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e918_text));
-        startActivity(intent);
-    }
-    public void ButtonE922Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e922_text));
-        startActivity(intent);
-    }
-    public void ButtonE923Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e923_text));
-        startActivity(intent);
-    }
-    public void ButtonE925Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e925_text));
-        startActivity(intent);
-    }
-    public void ButtonE926Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e926_text));
-        startActivity(intent);
-    }
-    public void ButtonE929Click(View view) {
-        Intent intent = new Intent(MainActivity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e929_text));
+    public void ButtonE100E199Click(View view) {
+        Intent intent = new Intent(MainActivity.this, E100E199Activity.class);
         startActivity(intent);
     }
 }
