@@ -32,5 +32,85 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e503_label"
+            android:id="@+id/e503_button"
+            android:onClick="ButtonE503Click"
+            android:layout_below="@+id/e501_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e504_label"
+            android:id="@+id/e504_button"
+            android:onClick="ButtonE504Click"
+            android:layout_below="@+id/e503_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e507_label"
+            android:id="@+id/e507_button"
+            android:onClick="ButtonE507Click"
+            android:layout_below="@+id/e504_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e508_label"
+            android:id="@+id/e508_button"
+            android:onClick="ButtonE508Click"
+            android:layout_below="@+id/e507_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e509_label"
+            android:id="@+id/e509_button"
+            android:onClick="ButtonE509Click"
+            android:layout_below="@+id/e508_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e510_label"
+            android:id="@+id/e510_button"
+            android:onClick="ButtonE510Click"
+            android:layout_below="@+id/e509_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e511_label"
+            android:id="@+id/e511_button"
+            android:onClick="ButtonE511Click"
+            android:layout_below="@+id/e510_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e512_label"
+            android:id="@+id/e512_button"
+            android:onClick="ButtonE512Click"
+            android:layout_below="@+id/e511_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
     </RelativeLayout>
 </ScrollView>
