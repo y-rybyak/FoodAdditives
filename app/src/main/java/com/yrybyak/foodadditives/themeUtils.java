@@ -7,8 +7,8 @@ public class themeUtils
 
 {
     private static int cTheme;
-    public final static int DARK = 0;
-    public final static int LIGHT = 1;
+    public final static int LIGHT = 0;
+    public final static int DARK = 1;
     public static void changeToTheme(Activity activity, int theme)
 
     {
@@ -22,11 +22,11 @@ public class themeUtils
         switch (cTheme)
         {
             default:
-            case DARK:
-                activity.setTheme(R.style.DarkTheme);
-                break;
             case LIGHT:
                 activity.setTheme(R.style.LightTheme);
+                break;
+            case DARK:
+                activity.setTheme(R.style.DarkTheme);
                 break;
         }
     }
