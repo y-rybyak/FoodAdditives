@@ -84,10 +84,12 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
+/*
     public void ButtonE700E799Click(View view) {
         Intent intent = new Intent(MainActivity.this, E700E799Activity.class);
         startActivity(intent);
     }
+*/
 
     public void ButtonE900E999Click(View view) {
         Intent intent = new Intent(MainActivity.this, E900E999Activity.class);

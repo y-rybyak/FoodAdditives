@@ -12,11 +12,4 @@ public class E700E799Activity extends Activity {
         themeUtils.onActivityCreateSetTheme(this);
         setContentView(R.layout.activity_e700_e799);
     }
-/*
-    public void ButtonE200Click(View view) {
-        Intent intent = new Intent(E300E399Activity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e200_text));
-        startActivity(intent);
-    }
-*/
 }

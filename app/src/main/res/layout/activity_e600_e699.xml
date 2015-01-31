@@ -32,5 +32,45 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e631_label"
+            android:id="@+id/e631_button"
+            android:onClick="ButtonE631Click"
+            android:layout_below="@+id/e627_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e635_label"
+            android:id="@+id/e635_button"
+            android:onClick="ButtonE635Click"
+            android:layout_below="@+id/e631_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e636_label"
+            android:id="@+id/e636_button"
+            android:onClick="ButtonE636Click"
+            android:layout_below="@+id/e635_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e637_label"
+            android:id="@+id/e637_button"
+            android:onClick="ButtonE637Click"
+            android:layout_below="@+id/e636_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
     </RelativeLayout>
 </ScrollView>

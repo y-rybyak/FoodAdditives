@@ -12,15 +12,25 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         android:paddingBottom="@dimen/activity_vertical_margin"
         tools:context=".MainActivity">
-<!--
+
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/e200_label"
-            android:id="@+id/e200_button"
-            android:onClick="ButtonE200Click"
+            android:text="@string/e903_label"
+            android:id="@+id/e903_button"
+            android:onClick="ButtonE903Click"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
--->
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e912_label"
+            android:id="@+id/e912_button"
+            android:onClick="ButtonE912Click"
+            android:layout_below="@+id/e903_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
     </RelativeLayout>
 </ScrollView>
