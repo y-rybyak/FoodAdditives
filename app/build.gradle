@@ -5,11 +5,11 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.yaroslav.foodadditives"
+        applicationId "com.yrybyak.foodadditives"
         minSdkVersion 14
         targetSdkVersion 21
-        versionCode 6
-        versionName "1.5"
+        versionCode 7
+        versionName "1.5.1"
     }
     buildTypes {
         release {
