@@ -47,7 +47,7 @@ public class E1000E1999Activity extends Activity {
 
     public void ButtonE1422Click(View view) {
         Intent intent = new Intent(E1000E1999Activity.this, EActivity.class);
-        intent.putExtra("text", getResources().getString(R.string.e1442_text));
+        intent.putExtra("text", getResources().getString(R.string.e1422_text));
         startActivity(intent);
     }
 
