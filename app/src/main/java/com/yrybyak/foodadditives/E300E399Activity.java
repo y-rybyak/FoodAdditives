@@ -158,4 +158,8 @@ public class E300E399Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e389_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
 }

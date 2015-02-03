@@ -201,4 +201,8 @@ public class E200E299Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e297_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
 }

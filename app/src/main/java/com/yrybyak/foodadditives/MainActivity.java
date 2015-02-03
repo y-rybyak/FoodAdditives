@@ -33,23 +33,18 @@ public class MainActivity extends Activity {
         if (id == R.id.dark_theme) {
             themeUtils.changeToTheme(this, themeUtils.DARK);
             setContentView(R.layout.activity_main);
-            return true;
         }
+
         else if (id == R.id.light_theme) {
             themeUtils.changeToTheme(this, themeUtils.LIGHT);
             setContentView(R.layout.activity_main);
-            return true;
         }
 
-        /*
-        Закомментированный код для пункта меню "О программе".
-        Раскомментировать здесь и menu_main.xml
         else if (id == R.id.about) {
             Intent intent = new Intent(MainActivity.this, AboutActivity.class);
             startActivity(intent);
-            return true;
         }
-        */
+
 
         return super.onOptionsItemSelected(item);
     }

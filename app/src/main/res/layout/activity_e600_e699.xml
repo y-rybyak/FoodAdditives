@@ -16,9 +16,29 @@
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:text="@string/e620_label"
+            android:id="@+id/e620_button"
+            android:onClick="ButtonE620Click"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
             android:text="@string/e621_label"
             android:id="@+id/e621_button"
             android:onClick="ButtonE621Click"
+            android:layout_below="@+id/e620_button"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/e626_label"
+            android:id="@+id/e626_button"
+            android:onClick="ButtonE626Click"
+            android:layout_below="@+id/e621_button"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
@@ -28,7 +48,7 @@
             android:text="@string/e627_label"
             android:id="@+id/e627_button"
             android:onClick="ButtonE627Click"
-            android:layout_below="@+id/e621_button"
+            android:layout_below="@+id/e626_button"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
 
@@ -71,6 +91,15 @@
             android:layout_below="@+id/e636_button"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/return_label"
+            android:id="@+id/ReturnButton"
+            android:onClick="ReturnClick"
+            android:layout_below="@+id/e637_button"
+            android:layout_centerHorizontal="true" />
 
     </RelativeLayout>
 </ScrollView>

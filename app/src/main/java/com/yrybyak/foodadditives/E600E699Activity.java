@@ -15,9 +15,21 @@ public class E600E699Activity extends Activity {
         setContentView(R.layout.activity_e600_e699);
     }
 
+    public void ButtonE620Click(View view) {
+        Intent intent = new Intent(E600E699Activity.this, EActivity.class);
+        intent.putExtra("text", getResources().getString(R.string.e620_text));
+        startActivity(intent);
+    }
+
     public void ButtonE621Click(View view) {
         Intent intent = new Intent(E600E699Activity.this, EActivity.class);
         intent.putExtra("text", getResources().getString(R.string.e621_text));
+        startActivity(intent);
+    }
+
+    public void ButtonE626Click(View view) {
+        Intent intent = new Intent(E600E699Activity.this, EActivity.class);
+        intent.putExtra("text", getResources().getString(R.string.e626_text));
         startActivity(intent);
     }
 
@@ -50,4 +62,9 @@ public class E600E699Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e637_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
+
 }

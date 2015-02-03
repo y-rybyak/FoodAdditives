@@ -140,4 +140,8 @@ public class E900E999Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e999_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
 }

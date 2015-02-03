@@ -164,4 +164,8 @@ public class E400E499Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e476_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
 }

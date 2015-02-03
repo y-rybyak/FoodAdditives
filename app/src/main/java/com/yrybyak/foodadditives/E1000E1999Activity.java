@@ -80,4 +80,8 @@ public class E1000E1999Activity extends Activity {
         intent.putExtra("text", getResources().getString(R.string.e1520_text));
         startActivity(intent);
     }
+
+    public void ReturnClick(View view) {
+        finish();
+    }
 }
